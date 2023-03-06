@@ -1,0 +1,7 @@
+venv/
+*.pdf
+*.jpeg
+*.jpg
+build/
+dist/
+facturas_3-3/
